@@ -1,7 +1,33 @@
 ![Header](./mycustomheader.png)
 <h1 align="center">Hi 👋, I'm Fernando G. Delgado</h1>
 <h3 align="center">Data Scientist | Data Analyst | Python Developer | Machine Learning Enthusiast | Deep Learning Practitioner | NLP Specialist | Web Scrapping Expert | SQL pro</h3>
+<h2>Hello! Welcome to my digital corner of the world!</h2>
 <img align="right" alt="Coding" width="450" src="./webtech-frontend.gif">
+<p> My name is <strong>Fernando G. Delgado</strong>, and I’m passionate about building data science and analytics solutions. With a background as a Regional Sales Manager, I bring over 10 years of experience in analytical thinking and team collaboration to the table. Although I’m transitioning into the field of data science, I’ve already obtained certifications in Data Science and Data Analysis and have been actively developing personal projects to deepen my expertise.</p>
+<p> I hold a degree in Anthropology and a diploma in Teaching, which have shaped my approach to problem-solving and understanding human behavior through data. Currently, I’m working on an ambitious project to develop a neural network capable of solving complex mathematical problems, including natural language processing (NLP) tasks.</p>
+    
+<h2>Tech Arsenal</h2>
+<ul>
+  <li><strong>Languages & Tools:</strong> Python (Pandas, scikit-learn, NumPy, Seaborn, Matplotlib), NLP (spaCy, Word2Vec, GloVe, NLTK), SymPy, LaTeX2SymPy, Tableau, Power BI, and more.</li>
+  <li><strong>Skills:</strong> Machine Learning, Data Analysis, Deep Learning, NLP, Mathematical Modeling, Data Visualization.</li>
+</ul>
+
+<h2>Current Endeavors</h2>
+<ul>
+  <li>Developing a neural network AI for solving advanced mathematical problems.</li>
+  <li>Exploring the intersection of data science and quantum computing.</li>
+  <li>Continuously learning and applying new frameworks and tools in data science.</li>
+</ul>
+    
+<h2>Personal Interests</h2>
+<p>When I’m not coding or delving into mathematical curiosities, I enjoy playing the saxophone and guitar, finding balance and inspiration in music.</p>
+    
+<h2>Based in</h2>
+<p><strong>Madrid, Spain.</strong></p>
+    
+<h2>Looking Ahead</h2>
+<p>I’m eager to contribute to the ever-evolving world of technology, with a particular interest in exploring new frontiers like quantum computing, cybersecurity, and beyond. I’m always open to discussions about innovative ideas and collaborative projects, so feel free to reach out if you share similar interests!</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccifer00&label=Profile%20views&color=0e75b6&style=flat" alt="luccifer00" /> </p>
 
 - 🔭 I’m currently working on [Math Solver: AI for AIME-Level MAthematical Problem Solving](--------)
