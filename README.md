@@ -4,12 +4,22 @@
 <h2>Hello! Welcome to my digital corner of the world!</h2>
 <img align="right" alt="Coding" width="450" src="./src/webtech-frontend.gif">
 <p> My name is <strong>Fernando G. Delgado</strong>, and I’m passionate about building data science and analytics solutions. With a background as a Regional Sales Manager, I bring over 10 years of experience in analytical thinking and team collaboration to the table. Although I’m transitioning into the field of data science, I’ve already obtained certifications in Data Science and Data Analysis and have been actively developing personal projects to deepen my expertise.</p>
-<p> I hold a degree in Anthropology and a diploma in Teaching, which have shaped my approach to problem-solving and understanding human behavior through data. Currently, I’m working on an ambitious project to develop a neural network capable of solving complex mathematical problems, including natural language processing (NLP) tasks.</p>
+<p> I hold a Bachelor's degree in Anthropology and a Bachelor's degree in Music Education. My journey into data science is driven by a passion for solving complex problems and a constant quest for knowledge. Currently, I’m working on an ambitious project to develop a neural network capable of solving complex mathematical problems, including natural language processing (NLP) tasks.</p>
     
 <h2>Tech Arsenal</h2>
 <ul>
-  <li><strong>Languages & Tools:</strong> Python (Pandas, scikit-learn, NumPy, Seaborn, Matplotlib), NLP (spaCy, Word2Vec, GloVe, NLTK), SymPy, LaTeX2SymPy, Tableau, Power BI, and more.</li>
-  <li><strong>Skills:</strong> Machine Learning, Data Analysis, Deep Learning, NLP, Mathematical Modeling, Data Visualization.</li>
+  <li><strong>Languages & Tools:</strong> 
+    Python (Pandas, scikit-learn, NumPy, Seaborn, Matplotlib, TensorFlow, Keras, PyTorch), 
+    NLP (spaCy, Word2Vec, GloVe, NLTK), 
+    SymPy, LaTeX2SymPy, Tableau, Power BI, Plotly, 
+    MongoDB, Git, GitHub, Dask, and more.
+  </li>
+  <li><strong>Skills:</strong> 
+    Machine Learning, Deep Learning, Data Analysis, 
+    Natural Language Processing (NLP), 
+    Mathematical Modeling, Data Visualization, 
+    ETL processes, and big data concepts.
+  </li>
 </ul>
 
 <h2>Current Endeavors</h2>
