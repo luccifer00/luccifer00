@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fernando G. Delgado</h1>
 <h3 align="center">Data Scientist | Data Analyst | Python Developer | Machine Learning Enthusiast | Deep Learning Practitioner | NLP Specialist | Web Scrapping Expert | SQL pro</h3>
 <h2>Hello! Welcome to my digital corner of the world!</h2>
-<img align="right" alt="Coding" width="450" src="./webtech-frontend.gif">
+<img align="right" alt="Coding" width="450" src="./src/webtech-frontend.gif">
 <p> My name is <strong>Fernando G. Delgado</strong>, and I’m passionate about building data science and analytics solutions. With a background as a Regional Sales Manager, I bring over 10 years of experience in analytical thinking and team collaboration to the table. Although I’m transitioning into the field of data science, I’ve already obtained certifications in Data Science and Data Analysis and have been actively developing personal projects to deepen my expertise.</p>
 <p> I hold a degree in Anthropology and a diploma in Teaching, which have shaped my approach to problem-solving and understanding human behavior through data. Currently, I’m working on an ambitious project to develop a neural network capable of solving complex mathematical problems, including natural language processing (NLP) tasks.</p>
     
