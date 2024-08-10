@@ -1,4 +1,4 @@
-![Header](./mycustomheader.png)
+![Header](./src/mycustomheader.png)
 <h1 align="center">Hi 👋, I'm Fernando G. Delgado</h1>
 <h3 align="center">Data Scientist | Data Analyst | Python Developer | Machine Learning Enthusiast | Deep Learning Practitioner | NLP Specialist | Web Scrapping Expert | SQL pro</h3>
 <h2>Hello! Welcome to my digital corner of the world!</h2>
