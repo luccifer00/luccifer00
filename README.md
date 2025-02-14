@@ -40,7 +40,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccifer00&label=Profile%20views&color=0e75b6&style=flat" alt="luccifer00" /> </p>
 
-- 🔭 I’m currently working on [Math Solver: AI for AIME-Level MAthematical Problem Solving](--------)
+- 🚀 I’m proud to finish this personal project [Link Prediction using Graph Convolutional Neural Netwoks with system vulnerabilities](https://github.com/luccifer00/Data-Scientist-Vulnerability-Relationship-Prediction-Using-Graph-Convolutional-Neural-Networks-GCN)
+
+- 🔭 I’m currently working on [Math Solver: AI for AIME-Level Mathematical Problem Solving](https://github.com/luccifer00/Data-Scientist-Advanced-Topics-Feature-Engineering-Text-And-Math-Tokenization-And-Embedding)
 
 - 📫 How to reach me **memoriainvalida@gmail.com**
 
